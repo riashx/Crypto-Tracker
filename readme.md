@@ -33,6 +33,3 @@ This project includes a `Dockerfile` and a `docker-compose.yml` for containerize
 ### Ports
 - **No ports are exposed** by default. If your application requires network access, update the `docker-compose.yml` to expose the necessary ports.
 
----
-
-_This section was updated to reflect the current Docker-based setup for this project._
